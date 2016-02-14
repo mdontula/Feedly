@@ -1,0 +1,22 @@
+{
+  "name": "feedly",
+  "version": "1.0.0",
+  "description": "App for news / social / finance updates",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdontula/Feedly.git"
+  },
+  "keywords": [
+    "Update"
+  ],
+  "author": "Mahesh Dontula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdontula/Feedly/issues"
+  },
+  "homepage": "https://github.com/mdontula/Feedly#readme"
+}
