@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mdontula/Feedly/issues"
   },
-  "homepage": "https://github.com/mdontula/Feedly#readme"
+  "homepage": "https://github.com/mdontula/Feedly#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
